@@ -1,9 +1,12 @@
-### Drumcap
+# Drumcap
 Author: Nick Pickering
 
 A little program I wrote when my sampler broke so that I could still easily plunder drum hits 
 
 I typically use it to capture internal audio (so that I do everything in-the-box) on OSX using Soundflower and a Multi-Output Device, but it works for any audio input that PyAudio can detect
+
+### Requirements:
+  matplotlib, pyaudio, numpy, wave, tkinter, struct
 
 ## Usage:
 In the terminal:
